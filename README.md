@@ -14,4 +14,5 @@ Uma rota para healtcheck de aplicação
 Incluir as variaveis de ambientes no Openshift
 
 APP_HOST = 0.0.0.0
+
 APP_PORT = 8080
